@@ -1,0 +1,51 @@
+Summary for xeno-1.1.jar
+Decompiled with CFR 0.152
+
+
+com.sun.javafx.css.parser.CSSLexer
+----------------------------
+
+getToken()
+  Unable to fully structure code
+
+
+com.sun.prism.impl.BaseResourcePool
+----------------------------
+
+cleanup(long )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 6[FORLOOP]
+
+
+com.sun.media.jfxmediaimpl.NativeMediaPlayer
+----------------------------
+
+doMediaPulseTask()
+  Unable to fully structure code
+
+
+com.sun.javafx.css.StyleManager
+----------------------------
+
+calculateCheckSum(java.lang.String )
+  Loose catch block
+
+
+_bY
+----------------------------
+
+elytraFlight(_bF )
+  Exception : org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.SwitchStringRewriter$TooOptimisticMatchException
+
+
+org.spongepowered.asm.mixin.refmap.ReferenceMapper
+----------------------------
+
+read(java.lang.String )
+  Loose catch block
+
+
+org.spongepowered.asm.lib.Type
+----------------------------
+
+getReturnType(java.lang.String )
+  Unable to fully structure code
